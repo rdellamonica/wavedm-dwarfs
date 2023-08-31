@@ -17,3 +17,6 @@ This script opens the Wave DM simulation carried out in the previous step by its
 ### Animation
 
 In the `animation` folder it is possible to find the animation corresponding the $N=512^3$ simulation used in the paper.
+
+https://github.com/rdellamonica/wavedm-dwarfs/assets/53187090/a1ae7805-ed87-49c0-b779-fffcf944c90f
+
