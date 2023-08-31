@@ -1,7 +1,10 @@
 # wavedm-dwarfs
 Simulation of stellar disk in Wave Dark Matter halo. For details see the orignal [paper](https://arxiv.org/abs/2308.14664).
 
+
+
 ### The Wave DM halo simulation
+<img width="1255" alt="Simulation" src="https://github.com/rdellamonica/wavedm-dwarfs/assets/53187090/f8e6829d-538a-4631-9cfe-44d0a4830a18">
 
 The main file to execute is `wave_dm_simulation.py`. Here one can change the parameter `L` and `N` representing the simulation box side and linear resolution, respectively. This file calls the `SPSolver3D` class and initializes the resolution grid. The `rho0_soliton_3D` function initializes the simulation with `n` solitons with core radii between `r_c_b` and `r_c_e`, thus fixing the conserved total mass of the halo. 
 
